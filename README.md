@@ -5,7 +5,7 @@ The base animation for artwork submitted to the Fall 2015 Mission Arts Council /
 
 (The file is 20.8 MiB, so on slow connections, it may take a few minutes.)
 
-![Knitting Bricks GIF Animation](https://github.com/ruminations/knitting_bricks/knitting_bricks.gif)
+![Knitting Bricks GIF Animation](https://raw.githubusercontent.com/ruminations/knitting_bricks/master/knitting_bricks.gif)
 
 Description
 -----------
