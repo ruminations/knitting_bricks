@@ -37,9 +37,9 @@ It is of course possible to reverse engineer the pixel maps and obtain rough pla
 LICENSE
 =======
 
-![Creative Commons version 4.0 CC-BY-SA North American Logo](/by-nc-sa.na.svg)
-![Creative Commons version 4.0 CC-BY-SA Simple Logo](/by-nc-sa.svg)
-![Creative Commons version 4.0 CC-BY-SA European Logo](/by-nc-sa.eu.svg)
+![Creative Commons version 4.0 CC-BY-SA North American Logo](/by-nc-sa.na.png)
+![Creative Commons version 4.0 CC-BY-SA Simple Logo](/by-nc-sa.png)
+![Creative Commons version 4.0 CC-BY-SA European Logo](/by-nc-sa.eu.png)
 
 For details, see: http://creativecommons.org/licenses/by-nc-sa/4.0/
 
